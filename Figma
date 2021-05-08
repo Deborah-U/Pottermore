@@ -1,0 +1,1054 @@
+-
+[
+   
+-
+{
+        "name": "Home",
+        "type": "div",
+        "content": 
+-
+[
+           
+-
+{
+                "name": "BG",
+                "type": "div",
+                "content": 
+-
+[
+                   
+-
+{
+                        "name": "Group 382",
+                        "type": "div",
+                        "content": 
+-
+[
+                           
+-
+{
+                                "name": "Rectangle 284",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{8 items}
+                            },
+                           
+-
+{
+                                "name": "Path 4",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{8 items}
+                            }
+                        ],
+                        "attributes": 
+-
+{
+                            "class": "v3_160"
+                        },
+                        "style": 
+-
+{
+                            "width": "100%",
+                            "height": "816px",
+                            "background": "url(\"../images/v3_160.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "111px",
+                            "left": "0px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "images-removebg-preview(1) 1",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v3_216"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "height": "119px",
+                            "background": "url(\"../images/v3_216.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "0px",
+                            "left": "99px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Group 366",
+                        "type": "div",
+                        "content": 
+-
+[
+                           
+-
+{
+                                "name": "Rectangle 286",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{12 items}
+                            },
+                           
+-
+{
+                                "name": "Field ",
+                                "type": "span",
+                                "content": "GET STARTED",
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{10 items}
+                            }
+                        ],
+                        "attributes": 
+-
+{
+                            "class": "v3_167"
+                        },
+                        "style": 
+-
+{
+                            "width": "157px",
+                            "height": "54px",
+                            "background": "url(\"../images/v3_167.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "538px",
+                            "left": "215px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "We Love Developers",
+                        "type": "span",
+                        "content": "Welcome to Pottermore!!",
+                        "attributes": 
+-
+{
+                            "class": "v3_170"
+                        },
+                        "style": 
+-
+{
+                            "width": "527px",
+                            "color": "rgba(255,255,255,1)",
+                            "position": "absolute",
+                            "top": "261px",
+                            "left": "215px",
+                            "text-shadow": "0px 4px 4px rgba(0, 0, 0, 0.25)",
+                            "font-family": "Poppins",
+                            "font-weight": "ExtraBold",
+                            "font-size": "40px",
+                            "opacity": 1,
+                            "text-align": "left"
+                        }
+                    },
+                   
+-
+{
+                        "name": "We Love Developers",
+                        "type": "span",
+                        "content": "⚡Find all your Harry Potter \n needs here! ⚡",
+                        "attributes": 
+-
+{
+                            "class": "v37_443"
+                        },
+                        "style": 
+-
+{
+                            "width": "537px",
+                            "color": "rgba(255,255,255,1)",
+                            "position": "absolute",
+                            "top": "327px",
+                            "left": "215px",
+                            "font-family": "Poppins",
+                            "font-weight": "Regular",
+                            "font-size": "40px",
+                            "opacity": 1,
+                            "text-align": "left"
+                        }
+                    },
+                   
+-
+{
+                        "name": "image 780",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v37_441"
+                        },
+                        "style": 
+-
+{
+                            "width": "70px",
+                            "height": "70px",
+                            "background": "url(\"../images/v37_441.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "246px",
+                            "left": "129px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "image 781",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v37_442"
+                        },
+                        "style": 
+-
+{
+                            "width": "70px",
+                            "height": "70px",
+                            "background": "url(\"../images/v37_442.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "246px",
+                            "left": "758px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Pottermore is a magical portal with Harry Potter themed trivia, polls, and personality quizzes! 💻",
+                        "type": "span",
+                        "content": "Pottermore is a magical portal with Harry Potter themed trivia, \npolls, and personality quizzes!  💻",
+                        "attributes": 
+-
+{
+                            "class": "v3_171"
+                        },
+                        "style": 
+-
+{
+                            "width": "574px",
+                            "color": "rgba(255,255,255,1)",
+                            "position": "absolute",
+                            "top": "459px",
+                            "left": "215px",
+                            "font-family": "Poppins",
+                            "font-weight": "SemiBold",
+                            "font-size": "18px",
+                            "opacity": 1,
+                            "text-align": "left"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Group 365",
+                        "type": "div",
+                        "content": 
+-
+[
+                           
+-
+{
+                                "name": "Contact",
+                                "type": "span",
+                                "content": "Trivia",
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{10 items}
+                            },
+                           
+-
+{
+                                "name": "Contact",
+                                "type": "span",
+                                "content": "Poll",
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{10 items}
+                            },
+                           
+-
+{
+                                "name": "Plans",
+                                "type": "span",
+                                "content": "Quiz",
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{10 items}
+                            },
+                           
+-
+{
+                                "name": "About",
+                                "type": "span",
+                                "content": "Home",
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{10 items}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            }
+                        ],
+                        "attributes": 
+-
+{
+                            "class": "v3_181"
+                        },
+                        "style": 
+-
+{
+                            "width": "372px",
+                            "height": "27px",
+                            "background": "url(\"../images/v3_181.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "34px",
+                            "left": "550px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Rectangle 285",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v3_189"
+                        },
+                        "style": 
+-
+{
+                            "width": "157px",
+                            "height": "54px",
+                            "background": "linear-gradient(rgba(255,229,0,1), rgba(255,250,212,1))",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "14px",
+                            "left": "1288px",
+                            "border-top-left-radius": "100px",
+                            "border-top-right-radius": "100px",
+                            "border-bottom-left-radius": "100px",
+                            "border-bottom-right-radius": "100px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Field ",
+                        "type": "span",
+                        "content": "LOGIN",
+                        "attributes": 
+-
+{
+                            "class": "v3_190"
+                        },
+                        "style": 
+-
+{
+                            "width": "45px",
+                            "color": "rgba(0,0,0,1)",
+                            "position": "absolute",
+                            "top": "31px",
+                            "left": "1344px",
+                            "font-family": "Poppins",
+                            "font-weight": "Bold",
+                            "font-size": "14px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    }
+                ],
+                "attributes": 
+-
+{
+                    "class": "v3_159"
+                },
+                "style": 
+-
+{
+                    "width": "100%",
+                    "height": "927px",
+                    "background": "url(\"../images/v3_159.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "18px",
+                    "left": "34px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "BG",
+                "type": "div",
+                "content": 
+-
+[
+                   
+-
+{
+                        "name": "Group 382",
+                        "type": "div",
+                        "content": 
+-
+[
+                           
+-
+{
+                                "name": "Rectangle 284",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{8 items}
+                            },
+                           
+-
+{
+                                "name": "Path 4",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{8 items}
+                            }
+                        ],
+                        "attributes": 
+-
+{
+                            "class": "v90_62"
+                        },
+                        "style": 
+-
+{
+                            "width": "100%",
+                            "height": "816px",
+                            "background": "url(\"../images/v90_62.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "111px",
+                            "left": "0px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "images-removebg-preview(1) 1",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v90_65"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "height": "119px",
+                            "background": "url(\"../images/v90_65.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "0px",
+                            "left": "99px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Group 366",
+                        "type": "div",
+                        "content": 
+-
+[
+                           
+-
+{
+                                "name": "Rectangle 286",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{12 items}
+                            },
+                           
+-
+{
+                                "name": "Field ",
+                                "type": "span",
+                                "content": "GET STARTED",
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{10 items}
+                            }
+                        ],
+                        "attributes": 
+-
+{
+                            "class": "v90_66"
+                        },
+                        "style": 
+-
+{
+                            "width": "157px",
+                            "height": "54px",
+                            "background": "url(\"../images/v90_66.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "538px",
+                            "left": "215px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "We Love Developers",
+                        "type": "span",
+                        "content": "Welcome to Pottermore!!",
+                        "attributes": 
+-
+{
+                            "class": "v90_69"
+                        },
+                        "style": 
+-
+{
+                            "width": "527px",
+                            "color": "rgba(255,255,255,1)",
+                            "position": "absolute",
+                            "top": "261px",
+                            "left": "215px",
+                            "text-shadow": "0px 4px 4px rgba(0, 0, 0, 0.25)",
+                            "font-family": "Poppins",
+                            "font-weight": "ExtraBold",
+                            "font-size": "40px",
+                            "opacity": 1,
+                            "text-align": "left"
+                        }
+                    },
+                   
+-
+{
+                        "name": "We Love Developers",
+                        "type": "span",
+                        "content": "⚡Find all your Harry Potter \n needs here! ⚡",
+                        "attributes": 
+-
+{
+                            "class": "v90_70"
+                        },
+                        "style": 
+-
+{
+                            "width": "537px",
+                            "color": "rgba(255,255,255,1)",
+                            "position": "absolute",
+                            "top": "327px",
+                            "left": "215px",
+                            "font-family": "Poppins",
+                            "font-weight": "Regular",
+                            "font-size": "40px",
+                            "opacity": 1,
+                            "text-align": "left"
+                        }
+                    },
+                   
+-
+{
+                        "name": "image 780",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v90_71"
+                        },
+                        "style": 
+-
+{
+                            "width": "70px",
+                            "height": "70px",
+                            "background": "url(\"../images/v90_71.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "246px",
+                            "left": "129px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "image 781",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v90_72"
+                        },
+                        "style": 
+-
+{
+                            "width": "70px",
+                            "height": "70px",
+                            "background": "url(\"../images/v90_72.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "246px",
+                            "left": "758px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Pottermore is a magical portal with Harry Potter themed trivia, polls, and personality quizzes! 💻",
+                        "type": "span",
+                        "content": "Pottermore is a magical portal with Harry Potter themed trivia, \npolls, and personality quizzes!  💻",
+                        "attributes": 
+-
+{
+                            "class": "v90_73"
+                        },
+                        "style": 
+-
+{
+                            "width": "574px",
+                            "color": "rgba(255,255,255,1)",
+                            "position": "absolute",
+                            "top": "459px",
+                            "left": "215px",
+                            "font-family": "Poppins",
+                            "font-weight": "SemiBold",
+                            "font-size": "18px",
+                            "opacity": 1,
+                            "text-align": "left"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Group 365",
+                        "type": "div",
+                        "content": 
+-
+[
+                           
+-
+{
+                                "name": "Contact",
+                                "type": "span",
+                                "content": "Trivia",
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{10 items}
+                            },
+                           
+-
+{
+                                "name": "Contact",
+                                "type": "span",
+                                "content": "Poll",
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{10 items}
+                            },
+                           
+-
+{
+                                "name": "Plans",
+                                "type": "span",
+                                "content": "Quiz",
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{10 items}
+                            },
+                           
+-
+{
+                                "name": "About",
+                                "type": "span",
+                                "content": "Home",
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{10 items}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            }
+                        ],
+                        "attributes": 
+-
+{
+                            "class": "v90_74"
+                        },
+                        "style": 
+-
+{
+                            "width": "372px",
+                            "height": "27px",
+                            "background": "url(\"../images/v90_74.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "34px",
+                            "left": "550px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Rectangle 285",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v90_80"
+                        },
+                        "style": 
+-
+{
+                            "width": "157px",
+                            "height": "54px",
+                            "background": "linear-gradient(rgba(255,229,0,1), rgba(255,250,212,1))",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "14px",
+                            "left": "1288px",
+                            "border-top-left-radius": "100px",
+                            "border-top-right-radius": "100px",
+                            "border-bottom-left-radius": "100px",
+                            "border-bottom-right-radius": "100px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Field ",
+                        "type": "span",
+                        "content": "LOGIN",
+                        "attributes": 
+-
+{
+                            "class": "v90_81"
+                        },
+                        "style": 
+-
+{
+                            "width": "45px",
+                            "color": "rgba(0,0,0,1)",
+                            "position": "absolute",
+                            "top": "31px",
+                            "left": "1344px",
+                            "font-family": "Poppins",
+                            "font-weight": "Bold",
+                            "font-size": "14px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    }
+                ],
+                "attributes": 
+-
+{
+                    "class": "v90_61"
+                },
+                "style": 
+-
+{
+                    "width": "100%",
+                    "height": "927px",
+                    "background": "url(\"../images/v90_61.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "18px",
+                    "left": "34px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            },
+           
+-
+{
+                "name": "19-199050_harry-potter-glasses-clipart-image-transparent-free-harry-removebg-preview 1",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v3_217"
+                },
+                "style": 
+-
+{
+                    "width": "652px",
+                    "height": "357px",
+                    "background": "url(\"../images/v3_217.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "370px",
+                    "left": "784px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "image 1",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v3_214"
+                },
+                "style": 
+-
+{
+                    "width": "263px",
+                    "height": "104px",
+                    "background": "url(\"../images/v3_214.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "30px",
+                    "left": "152px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            }
+        ],
+        "attributes": 
+-
+{
+            "class": "v3_158"
+        },
+        "style": 
+-
+{
+            "width": "100%",
+            "height": "891px",
+            "background": "rgba(0,0,0,1)",
+            "opacity": 1,
+            "position": "relative",
+            "top": "0px",
+            "left": "0px",
+            "overflow": "hidden"
+        }
+    }
+]
